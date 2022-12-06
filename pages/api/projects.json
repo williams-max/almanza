@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "Perfect Sport Newtwork web",
+    "image": "/dash1.png",
+    "description": "USA demo sports ",
+    "tags": ["next", "node", "aws", "material UI", "react"],
+  
+    "demo": "https://www.perfectsportsnetwork.com/home",
+    "imagens": ["/sport1.png","/sport2.png","/sport3.png","/sport4.png"]
+  },
+  {
+    "id": 8,
+    "name": "Perfect Sport Newtwork mobile",
+    "image": "/dash1.png",
+    "description": "US sports (live demo not available)",
+    "tags": ["next", "node", "aws", "material UI", "react"],
+  
+    "demo": "",
+    "imagens": ["/sportmobile1.jpg","/sportmobile2.jpg","/sportmobile3.jpg","/sportmobile4.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Dasboard Newtwork Services",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "US sports services (live demo not available)",
+    "tags": ["react", "node", "javascript", "hook", "next", "material-ui"],
+    "demo": "",
+    "imagens": ["/dash1.png","/dash2.png","/dash3.png"]
+   
+  },
+  {
+    "id": 3,
+    "name": "Sistema de Registro y avace de materia (UMSS)",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "Sistema de Registro y avace de materia (UMSS) college project(live demo not available)",
+    "tags": ["html", "mysql", "javascript", "php", "laravel"],
+ 
+    "demo": "",
+    "imagens": ["/registro1.png","/registro2.png","/registro3.png"]
+  },
+  {
+    "id": 4,
+    "name": "Update project",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "(live demo not available) This project was about bringing the html and javascript code into an upcoming next js environment",
+
+    "tags": ["react", "node", "javascript", "hook", "next", "material-ui","boostrap", "jquery"],
+    "demo": "",
+    "imagens": ["/mamba1.png","/mamba2.png","/mamba3.png"]
+  },
+  {
+    "id": 15,
+    "name": "Survive on this planet",
+    "image": "/ultimate1.png",
+    "description": "unity multiplayer video game available on the play store",
+    "tags": ["c#", "unity","blender","photon"],
+   
+    "demo": "https://play.google.com/store/apps/details?id=com.almanza.surviveonthisplanet&hl=es",
+    "imagens": ["/ultimate1.png","/ultimate2.png","/ultimate3.png"]
+  },
+  {
+    "id": 5,
+    "name": "dwarves multiplayer",
+    "image": "/dwarves.png",
+    "description": "unity multiplayer video game available on the play store",
+    "tags": ["c#", "unity","blender","photon"],
+   
+    "demo": "https://play.google.com/store/apps/details?id=com.almanza.dwarvesmultiplayer",
+    "imagens": ["/dwarves1.png","/dwarves2.png","/dwarves3.png"]
+  },
+  {
+    "id": 6,
+    "name": "Dinosaur Game",
+    "image": "/dwarves.png",
+    "description": "unity video game available on the play store",
+    "tags": ["c#", "unity","blender"],
+
+    "demo": "https://play.google.com/store/apps/details?id=com.Almanza.DinosaurGame",
+    "imagens": ["https://play-lh.googleusercontent.com/6RD0eiAqYPApsoEChAOg0ulA4GS5xeu4ujyffnQ9CeQsOg2Zbul-upUlEpXFykQ8aOY=w526-h296-rw"]
+  }
+  ,  {
+    "id": 7,
+    "name": "Angeles y demonios",
+    "image": "/angel1.png",
+    "description": "unity video game available on the play store",
+    "tags": ["c#", "unity","blender"],
+
+    "demo": "https://play.google.com/store/apps/details?id=almanza.ANGELESYDEMONIOS",
+    "imagens": [
+      "/angel1.png"]
+  }
+,
+  {
+    "id": 9,
+    "name": "Reproductor de Audio Ingles Español intercaldo",
+    "image": "/angel1.png",
+    "description": "(proyecto personal - para aprender ingles)The user writes and translates it automatically (English and Spanish or vice versa) and that it also has its audio, the audio has to be inserted, for example, a word in English (English voice), followed by its meaning in Spanish (Spanish voice)",
+    "tags": ["next js", "material ui","javascript","firebase","express,node js"],
+
+    "demo": "https://aprende-es-en-ingles.vercel.app/",
+    "imagens": [
+      "/ingles1.png"]
+  }
+]

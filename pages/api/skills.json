@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": " React JS",   
+    "skills": ["pinta", "pinta", "pinta", "pinta", "pinta","pinta","-","-","-","-"]
+
+  },
+  {
+    "id": 1,
+    "name": " Next JS",   
+    "skills": ["pinta", "pinta", "pinta", "pinta", "pinta","pinta","-","-","-","-"]
+
+  },
+  {
+    "id": 1,
+    "name": " React Native",   
+    "skills": ["pinta", "pinta", "pinta", "pinta", "-","-","-","-","-","-"]
+
+  },
+  {
+    "id": 1,
+    "name": " java",
+    "description": "From the beginning of the systems engineering career at UMSS, they teach us the java programming language",
+    "skills": ["pinta", "pinta", "pinta", "pinta", "pinta","pinta","-","-","-","-"]
+
+  },
+  {
+    "id": 2,
+    "name": "- C# 2020 y presente (2022))",
+    "description": "The use that I give to this language is for the development of video games in Unity Android Studio, I only use the SDK to generate the apk and. aab in unity",
+    "skills": ["pinta", "pinta", "pinta", "pinta", "pinta","-","-","-","-","-"]
+   
+  },
+  {
+    "id": 1,
+    "name": " javascript",
+    "skills": ["pinta", "pinta", "pinta", "pinta", "pinta","pinta","-","-","-","-"]
+
+  },
+  {
+    "id": 1,
+    "name": " Laravel",
+    "skills": ["pinta", "pinta", "pinta", "pinta", "-","-","-","-","-","-"]   
+  },
+  {
+    "id": 1,
+    "name": " Php",
+    "skills": ["pinta", "pinta", "pinta", "pinta", "-","-","-","-","-","-"]
+  
+   
+  }
+
+
+]
